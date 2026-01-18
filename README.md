@@ -99,9 +99,8 @@ I enjoy building **scalable, reliable systems**, working close to the OS and net
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*
+- 💼 LinkedIn: https://in.linkedin.com/in/ritwik-mishra-99997022a
 - 💻 GitHub: [github.com/Ritwik740](https://github.com/Ritwik740)
-- 🧠 LeetCode: *(add your link)*
 
 ---
 
